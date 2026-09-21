@@ -10,9 +10,10 @@ Passionate about building solutions at the intersection of **engineering, AI, an
 - Data Science and Analytics
 
 ---
-
+<!-- 
 ### Current Focus
 - Building scalable web applications for biopharma/manufacturing
 - Exploring AI/ML applications in life sciences
 - Full-stack development with modern frameworks
 - Data-driven pipelines, analytics, visualization
+-->
