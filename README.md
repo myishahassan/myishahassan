@@ -9,8 +9,8 @@ Passionate about building solutions at the intersection of **engineering, AI, an
 - Biopharma and Digital Manufacturing
 - Data Science and Analytics
 
----
 <!-- 
+---
 ### Current Focus
 - Building scalable web applications for biopharma/manufacturing
 - Exploring AI/ML applications in life sciences
