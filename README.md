@@ -2,12 +2,16 @@
 
 ### About Me
 I am a **Mechanical Engineering graduate** from **The Cooper Union ('26)** with minors in **Computer Science and Economics**, based in **NYC**.
-Passionate about building solutions at the intersection of **engineering, AI, and computational science**. My interests span:
 
+My interests span:
 - AI, Machine Learning, and Agentic Systems
 - Robotics & Control Systems
-- Biopharma and Digital Manufacturing
 - Data Science and Analytics
+
+Current focus:
+- Building scalable web applications for biopharma/manufacturing
+- Exploring AI/ML applications in life sciences
+- Full-stack development + data-driven pipelines, visualization
 
 <!-- 
 ---
