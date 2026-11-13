@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC93F7&lines=Hi%2C+I'm+Myisha+Hassan!;Mechanical+Engineer;AI+in+Biopharma;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC93F7&lines=Hi%2C+I'm+Myisha+Hassan!;Mechanical+Engineer;)](https://git.io/typing-svg)
 
 ### About Me
 I am a **Mechanical Engineering graduate** from **The Cooper Union ('26)** with minors in **Computer Science and Economics**, based in **NYC**.
